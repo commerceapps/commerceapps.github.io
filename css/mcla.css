@@ -30,7 +30,6 @@ body {
     width: 150px;
     position: fixed;
     z-index: 1;
-    top: 150px;
     left: 10px;
     overflow-x: hidden;
     padding: 8px 0;
